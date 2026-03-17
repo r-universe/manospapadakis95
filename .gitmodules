@@ -5,3 +5,6 @@
 [submodule "Rnanoflann"]
 	path = Rnanoflann
 	url = https://github.com/manospapadakis95/rnanoflann
+[submodule "rangen"]
+	path = rangen
+	url = https://github.com/manospapadakis95/rangen
